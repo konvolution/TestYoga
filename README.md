@@ -1,2 +1,0 @@
-# TestYoga
-Created with CodeSandbox
